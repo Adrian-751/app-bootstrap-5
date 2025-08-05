@@ -37,7 +37,7 @@
   }
   
   .footer .link {
-    background: #737373;
+    background: #161616;
     color: white;
     padding: 10px 15px;
     border-radius: 100px;
@@ -64,8 +64,8 @@
     color: white;
   }
   
-  .footer .link.youtube:hover {
-    background-color: #ff0000;
+  .footer .link.github:hover {
+    background-color: #666;
   }
   
   .footer .link.linkedin:hover {
